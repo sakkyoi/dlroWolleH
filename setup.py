@@ -12,5 +12,5 @@ setup(
     long_description_content_type='text/markdown',
     packages=find_packages(),
     install_requires=[],
-    url='',
+    url='https://github.com/sakkyoi/dlroWolleH',
 )
